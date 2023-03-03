@@ -1,0 +1,81 @@
+/* .recipelist {
+  pointer-events: auto;
+}
+.recipelist button {
+  box-sizing: border-box;
+  pointer-events: auto;
+
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 19px 62.6406px 21px 61px;
+  position: absolute;
+  width: 235.64px;
+  height: 56px;
+  left: calc(50% - 235.64px / 2 - 0.01px);
+  top: 760px;
+}
+.recipelist button a {
+  text-decoration: none;
+  pointer-events: auto;
+  width: 112px;
+  height: 16px;
+  font-family: 'Arial';
+  font-style: normal;
+  line-height: 16px;
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #2b2a27;
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+} */
+.recipelist {
+  pointer-events: auto;
+}
+
+.recipelist button {
+  box-sizing: border-box;
+  pointer-events: auto;
+
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 19px 62.6406px 21px 61px;
+  position: absolute;
+  width: 235.64px;
+  height: 56px;
+  left: calc(50% - 235.64px / 2 - 0.01px);
+  top: 760px;
+  border: 1px solid #2b2a27;
+  background-color: transparent;
+  cursor: pointer;
+
+  position: relative; /* 追加 */
+}
+
+.recipelist button a {
+  text-decoration: none;
+  pointer-events: auto;
+
+  font-family: 'Arial';
+  font-style: normal;
+  line-height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #2b2a27;
+  position: absolute;
+  width: 235.64px;
+  height: 56px;
+  left: calc(50% - 235.64px / 2 - 0.01px);
+  top: 0px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+
+  z-index: 2; /* ボタンより手前に */
+}

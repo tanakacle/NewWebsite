@@ -1,0 +1,90 @@
+.recipe h2 {
+  /* background-color: aqua; */
+  border-bottom: 1px solid #969696;
+  box-sizing: border-box;
+  position: absolute;
+  width: 768px;
+  height: 33px;
+  left: 1056px;
+  top: 180px;
+}
+.create {
+  /* background-color: beige; */
+  position: absolute;
+  width: 768px;
+  height: 170px;
+  left: 1056px;
+  top: 228px;
+}
+.create li {
+  list-style: none;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: #2b2a27;
+}
+.create li span {
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  text-align: right;
+  color: #2b2a27;
+  box-sizing: border-box;
+  position: absolute;
+  height: 34px;
+  /* left: 652.8px; */
+  right: 0.02px;
+}
+#item1 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 768px;
+  height: 34px;
+  left: 0px;
+  top: 0px;
+  border-bottom: 1px dashed #969696;
+}
+#item2 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 768px;
+  height: 34px;
+  left: 0px;
+  top: 34px;
+  border-bottom: 1px dashed #969696;
+}
+#item3 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 768px;
+  height: 34px;
+  left: 0px;
+  top: 68px;
+  border-bottom: 1px dashed #969696;
+}
+#item4 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 768px;
+  height: 34px;
+  left: 0px;
+  top: 102px;
+  border-bottom: 1px dashed #969696;
+}
+#item5 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 768px;
+  height: 34px;
+  left: 0px;
+  top: 136px;
+  border-bottom: 1px dashed #969696;
+}

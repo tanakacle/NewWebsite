@@ -1,0 +1,83 @@
+.make h2 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 768px;
+  height: 33px;
+  left: 1056px;
+  top: 438px;
+  border-bottom: 1px solid #969696;
+  /* スタイル指定 */
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  color: #2b2a27;
+}
+.make-text {
+  position: absolute;
+  width: 768px;
+  height: 170px;
+  left: 1056px;
+  top: 486px;
+}
+.make-text li {
+  list-style: none;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: #2b2a27;
+}
+#make1 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 748px;
+  height: 34px;
+  left: 20px;
+  top: 0px;
+  border-bottom: 1px dashed #969696;
+}
+#make2 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 748px;
+  height: 34px;
+  left: 20px;
+  top: 34px;
+  border-bottom: 1px dashed #969696;
+}
+#make3 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 748px;
+  height: 34px;
+  left: 20px;
+  top: 68px;
+  border-bottom: 1px dashed #969696;
+}
+#make4 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 748px;
+  height: 34px;
+  left: 20px;
+  top: 102px;
+  border-bottom: 1px dashed #969696;
+}
+#make5 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 748px;
+  height: 34px;
+  left: 20px;
+  top: 136px;
+  border-bottom: 1px dashed #969696;
+}

@@ -1,0 +1,84 @@
+.footer {
+  position: absolute;
+  width: 1920px;
+  height: 88px;
+  left: 0px;
+  top: 896px;
+}
+.footer img {
+  position: absolute;
+  width: 111.11px;
+  height: 14px;
+  left: 904.55px;
+  top: 54px;
+}
+.footer ul {
+  position: absolute;
+
+  width: 1880px;
+  height: 14px;
+  left: 20px;
+  top: 20px;
+}
+#instagram {
+  position: absolute;
+  width: 53.56px;
+  height: 14px;
+  left: 849.3px;
+  top: 0px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  /* ボックスの高さと同一 */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-decoration-line: underline;
+
+  color: #2b2a27;
+}
+#twitter {
+  position: absolute;
+  width: 35.54px;
+  height: 14px;
+  left: 922.66px;
+  top: 0px;
+
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  /* ボックスの高さと同一 */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-decoration-line: underline;
+
+  color: #2b2a27;
+}
+#facebook {
+  position: absolute;
+  width: 52.9px;
+  height: 14px;
+  left: 978px;
+  top: 0px;
+
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  /* ボックスの高さと同一 */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-decoration-line: underline;
+
+  color: #2b2a27;
+}

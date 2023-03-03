@@ -1,0 +1,34 @@
+.main-title h1 {
+  /* background-color: aqua; */
+  position: absolute;
+  width: 372.08px;
+  height: 31px;
+  left: 1056px;
+  top: 43px;
+  /* スタイル指定 */
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 32px;
+  display: flex;
+  align-items: center;
+  color: #2b2a27;
+}
+.main-title h3 {
+  /* background-color: aliceblue; */
+  position: absolute;
+  width: 767.58px;
+  height: 38px;
+  left: 1056px;
+  top: 99px;
+  /* スタイル指定 */
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: #2b2a27;
+}
